@@ -1,0 +1,3679 @@
+fileFormatVersion: 2
+guid: 514732f0b51152f49bfc544627df1123
+timeCreated: 1459974410
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: newSprite_0
+    21300002: newSprite_1
+    21300004: newSprite_2
+    21300006: newSprite_3
+    21300008: newSprite_4
+    21300010: newSprite_5
+    21300012: newSprite_6
+    21300014: newSprite_7
+    21300016: newSprite_8
+    21300018: newSprite_9
+    21300020: newSprite_10
+    21300022: newSprite_11
+    21300024: newSprite_12
+    21300026: newSprite_13
+    21300028: newSprite_14
+    21300030: newSprite_15
+    21300032: newSprite_16
+    21300034: newSprite_17
+    21300036: newSprite_18
+    21300038: newSprite_19
+    21300040: newSprite_20
+    21300042: newSprite_21
+    21300044: newSprite_22
+    21300046: newSprite_23
+    21300048: newSprite_24
+    21300050: newSprite_25
+    21300052: newSprite_26
+    21300054: newSprite_27
+    21300056: newSprite_28
+    21300058: newSprite_29
+    21300060: newSprite_30
+    21300062: newSprite_31
+    21300064: newSprite_32
+    21300066: newSprite_33
+    21300068: newSprite_34
+    21300070: newSprite_35
+    21300072: newSprite_36
+    21300074: newSprite_37
+    21300076: newSprite_38
+    21300078: newSprite_39
+    21300080: newSprite_40
+    21300082: newSprite_41
+    21300084: newSprite_42
+    21300086: newSprite_43
+    21300088: newSprite_44
+    21300090: newSprite_45
+    21300092: newSprite_46
+    21300094: newSprite_47
+    21300096: newSprite_48
+    21300098: newSprite_49
+    21300100: newSprite_50
+    21300102: newSprite_51
+    21300104: newSprite_52
+    21300106: newSprite_53
+    21300108: newSprite_54
+    21300110: newSprite_55
+    21300112: newSprite_56
+    21300114: newSprite_57
+    21300116: newSprite_58
+    21300118: newSprite_59
+    21300120: newSprite_60
+    21300122: newSprite_61
+    21300124: newSprite_62
+    21300126: newSprite_63
+    21300128: newSprite_64
+    21300130: newSprite_65
+    21300132: newSprite_66
+    21300134: newSprite_67
+    21300136: newSprite_68
+    21300138: newSprite_69
+    21300140: newSprite_70
+    21300142: newSprite_71
+    21300144: newSprite_72
+    21300146: newSprite_73
+    21300148: newSprite_74
+    21300150: newSprite_75
+    21300152: newSprite_76
+    21300154: newSprite_77
+    21300156: newSprite_78
+    21300158: newSprite_79
+    21300160: newSprite_80
+    21300162: newSprite_81
+    21300164: newSprite_82
+    21300166: newSprite_83
+    21300168: newSprite_84
+    21300170: newSprite_85
+    21300172: newSprite_86
+    21300174: newSprite_87
+    21300176: newSprite_88
+    21300178: newSprite_89
+    21300180: newSprite_90
+    21300182: newSprite_91
+    21300184: newSprite_92
+    21300186: newSprite_93
+    21300188: newSprite_94
+    21300190: newSprite_95
+    21300192: newSprite_96
+    21300194: newSprite_97
+    21300196: newSprite_98
+    21300198: newSprite_99
+    21300200: newSprite_100
+    21300202: newSprite_101
+    21300204: newSprite_102
+    21300206: newSprite_103
+    21300208: newSprite_104
+    21300210: newSprite_105
+    21300212: newSprite_106
+    21300214: newSprite_107
+    21300216: newSprite_108
+    21300218: newSprite_109
+    21300220: newSprite_110
+    21300222: newSprite_111
+    21300224: newSprite_112
+    21300226: newSprite_113
+    21300228: newSprite_114
+    21300230: newSprite_115
+    21300232: newSprite_116
+    21300234: newSprite_117
+    21300236: newSprite_118
+    21300238: newSprite_119
+    21300240: newSprite_120
+    21300242: newSprite_121
+    21300244: newSprite_122
+    21300246: newSprite_123
+    21300248: newSprite_124
+    21300250: newSprite_125
+    21300252: newSprite_126
+    21300254: newSprite_127
+    21300256: newSprite_128
+    21300258: newSprite_129
+    21300260: newSprite_130
+    21300262: newSprite_131
+    21300264: newSprite_132
+    21300266: newSprite_133
+    21300268: newSprite_134
+    21300270: newSprite_135
+    21300272: newSprite_136
+    21300274: newSprite_137
+    21300276: newSprite_138
+    21300278: newSprite_139
+    21300280: newSprite_140
+    21300282: newSprite_141
+    21300284: newSprite_142
+    21300286: newSprite_143
+    21300288: newSprite_144
+    21300290: newSprite_145
+    21300292: newSprite_146
+    21300294: newSprite_147
+    21300296: newSprite_148
+    21300298: newSprite_149
+    21300300: newSprite_150
+    21300302: newSprite_151
+    21300304: newSprite_152
+    21300306: newSprite_153
+    21300308: newSprite_154
+    21300310: newSprite_155
+    21300312: newSprite_156
+    21300314: newSprite_157
+    21300316: newSprite_158
+    21300318: newSprite_159
+    21300320: newSprite_160
+    21300322: newSprite_161
+    21300324: newSprite_162
+    21300326: newSprite_163
+    21300328: newSprite_164
+    21300330: newSprite_165
+    21300332: newSprite_166
+    21300334: newSprite_167
+    21300336: newSprite_168
+    21300338: newSprite_169
+    21300340: newSprite_170
+    21300342: newSprite_171
+    21300344: newSprite_172
+    21300346: newSprite_173
+    21300348: newSprite_174
+    21300350: newSprite_175
+    21300352: newSprite_176
+    21300354: newSprite_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: newSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -17, y: 15}
+        - {x: -17, y: -22}
+        - {x: -12, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 14}
+        - {x: 10, y: 19}
+    - name: newSprite_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 15}
+        - {x: 8, y: 19}
+    - name: newSprite_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -16, y: 16}
+        - {x: -16, y: -31}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 13}
+        - {x: 12, y: 19}
+    - name: newSprite_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -18, y: 15}
+        - {x: -20, y: -3}
+        - {x: -20, y: -32}
+        - {x: 17, y: -32}
+        - {x: 20, y: -28}
+        - {x: 20, y: 9}
+        - {x: 10, y: 19}
+    - name: newSprite_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -27, y: 9}
+        - {x: -27, y: -16}
+        - {x: -21, y: -32}
+        - {x: 18, y: -32}
+        - {x: 27, y: -16}
+        - {x: 27, y: 5}
+        - {x: 15, y: 19}
+    - name: newSprite_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 19}
+        - {x: -26, y: -32}
+        - {x: 18, y: -32}
+        - {x: 26, y: -5}
+        - {x: 26, y: 13}
+        - {x: 9, y: 19}
+    - name: newSprite_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -18, y: 15}
+        - {x: -20, y: -3}
+        - {x: -20, y: -32}
+        - {x: 17, y: -32}
+        - {x: 20, y: -28}
+        - {x: 20, y: 9}
+        - {x: 10, y: 19}
+    - name: newSprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -6, y: 21}
+        - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -28}
+        - {x: 15, y: -17}
+        - {x: 15, y: 15}
+    - name: newSprite_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -13, y: 14}
+        - {x: -13, y: -22}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 21}
+    - name: newSprite_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -12, y: 15}
+        - {x: -12, y: -30}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 15, y: -10}
+        - {x: 15, y: 20}
+        - {x: 11, y: 21}
+    - name: newSprite_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 18}
+        - {x: 5, y: 21}
+        - {x: -10, y: 21}
+        - {x: -14, y: 9}
+        - {x: -14, y: -20}
+        - {x: -11, y: -29}
+        - {x: -10, y: -31}
+        - {x: -6, y: -32}
+        - {x: 9, y: -32}
+        - {x: 15, y: -20}
+        - {x: 16, y: -15}
+    - name: newSprite_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -18}
+        - {x: -13, y: -29}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 21}
+        - {x: -13, y: 21}
+        - {x: -16, y: 12}
+    - name: newSprite_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -13, y: 19}
+        - {x: -16, y: 7}
+        - {x: -16, y: -11}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 21, y: -14}
+        - {x: 21, y: 14}
+        - {x: 10, y: 21}
+    - name: newSprite_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 21}
+        - {x: -10, y: 21}
+        - {x: -14, y: 19}
+        - {x: -14, y: -32}
+        - {x: 6, y: -32}
+        - {x: 13, y: -30}
+        - {x: 18, y: -12}
+        - {x: 18, y: 14}
+        - {x: 17, y: 19}
+    - name: newSprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 14, y: 21}
+    - name: newSprite_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -17, y: -30}
+        - {x: -15, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 14, y: 21}
+    - name: newSprite_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -16, y: 20}
+        - {x: -16, y: -27}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 13}
+        - {x: 14, y: 21}
+    - name: newSprite_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -20, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 21}
+    - name: newSprite_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -27, y: 6}
+        - {x: -27, y: -19}
+        - {x: -20, y: -32}
+        - {x: 19, y: -32}
+        - {x: 27, y: -6}
+        - {x: 27, y: 8}
+        - {x: 19, y: 21}
+    - name: newSprite_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 21}
+        - {x: -8, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: 12}
+        - {x: -15, y: 9}
+        - {x: -18, y: 12}
+        - {x: -22, y: 14}
+        - {x: -26, y: 6}
+        - {x: -26, y: 1}
+        - {x: -25, y: 0}
+        - {x: -21, y: -32}
+        - {x: 17, y: -32}
+        - {x: 26, y: -1}
+        - {x: 26, y: 10}
+    - name: newSprite_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -15, y: 18}
+        - {x: -19, y: 5}
+        - {x: -19, y: -23}
+        - {x: -16, y: -32}
+        - {x: 18, y: -32}
+        - {x: 19, y: -24}
+        - {x: 19, y: 20}
+        - {x: 15, y: 21}
+    - name: newSprite_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 14}
+        - {x: 9, y: 21}
+    - name: newSprite_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 21}
+        - {x: -8, y: 21}
+        - {x: -15, y: 18}
+        - {x: -15, y: -19}
+        - {x: -10, y: -28}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -29}
+        - {x: 13, y: 15}
+    - name: newSprite_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -15, y: 17}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 17}
+        - {x: 8, y: 21}
+    - name: newSprite_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -13, y: 21}
+        - {x: -16, y: 19}
+        - {x: -16, y: -17}
+        - {x: -13, y: -30}
+        - {x: -6, y: -32}
+        - {x: 1, y: -32}
+        - {x: 10, y: -31}
+        - {x: 14, y: -25}
+        - {x: 14, y: 14}
+    - name: newSprite_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 13}
+        - {x: 7, y: 21}
+        - {x: -8, y: 21}
+        - {x: -18, y: 9}
+        - {x: -21, y: 2}
+        - {x: -21, y: -13}
+        - {x: -8, y: -32}
+        - {x: 2, y: -32}
+        - {x: 13, y: -29}
+        - {x: 16, y: -18}
+        - {x: 16, y: 9}
+    - name: newSprite_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -21, y: 7}
+        - {x: -21, y: -12}
+        - {x: -11, y: -29}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -17}
+        - {x: 16, y: 12}
+        - {x: 5, y: 21}
+    - name: newSprite_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -18, y: 13}
+        - {x: -18, y: -18}
+        - {x: -8, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 14, y: -24}
+        - {x: 14, y: 17}
+        - {x: 12, y: 21}
+    - name: newSprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -17, y: 15}
+        - {x: -17, y: -23}
+        - {x: -15, y: -31}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+        - {x: 13, y: 19}
+    - name: newSprite_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -15, y: -30}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: newSprite_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -19}
+        - {x: -13, y: -28}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -20}
+        - {x: 16, y: 15}
+        - {x: 13, y: 19}
+    - name: newSprite_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -15}
+        - {x: -13, y: -26}
+        - {x: -7, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -15}
+        - {x: 16, y: 13}
+        - {x: 7, y: 19}
+    - name: newSprite_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -18}
+        - {x: -12, y: -26}
+        - {x: -4, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 17}
+        - {x: 14, y: 18}
+    - name: newSprite_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -13, y: 16}
+        - {x: -13, y: -18}
+        - {x: -12, y: -26}
+        - {x: -4, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: 4}
+        - {x: 17, y: 12}
+        - {x: 13, y: 18}
+    - name: newSprite_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -18}
+        - {x: -12, y: -26}
+        - {x: -4, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 17}
+        - {x: 14, y: 18}
+    - name: newSprite_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -15}
+        - {x: -13, y: -26}
+        - {x: -7, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -15}
+        - {x: 16, y: 13}
+        - {x: 7, y: 19}
+    - name: newSprite_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -6, y: 21}
+        - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -28}
+        - {x: 15, y: -17}
+        - {x: 15, y: 15}
+    - name: newSprite_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -15, y: 12}
+        - {x: -15, y: -26}
+        - {x: -14, y: -30}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -22}
+        - {x: 15, y: 19}
+        - {x: 10, y: 21}
+    - name: newSprite_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -15, y: -27}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 20}
+        - {x: 9, y: 21}
+    - name: newSprite_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -6, y: 21}
+        - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -29}
+        - {x: -10, y: -31}
+        - {x: 0, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -29}
+        - {x: 17, y: -12}
+        - {x: 17, y: 14}
+    - name: newSprite_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -19, y: 16}
+        - {x: -19, y: -24}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 21}
+    - name: newSprite_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -22, y: 3}
+        - {x: -22, y: -24}
+        - {x: -21, y: -26}
+        - {x: -8, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 20}
+        - {x: 12, y: 21}
+    - name: newSprite_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -19, y: 16}
+        - {x: -19, y: -24}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 21}
+    - name: newSprite_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -6, y: 21}
+        - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -29}
+        - {x: -10, y: -31}
+        - {x: 0, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -29}
+        - {x: 17, y: -12}
+        - {x: 17, y: 14}
+    - name: newSprite_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 16, y: 21}
+        - {x: -14, y: 21}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: 0, y: -29}
+        - {x: 5, y: -32}
+    - name: newSprite_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -16, y: 19}
+        - {x: -16, y: -29}
+        - {x: -12, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 21}
+    - name: newSprite_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -16, y: 20}
+        - {x: -16, y: -9}
+        - {x: -14, y: -29}
+        - {x: -2, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 21}
+    - name: newSprite_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -16, y: -22}
+        - {x: -15, y: -30}
+        - {x: -5, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 21}
+    - name: newSprite_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: 5}
+        - {x: -12, y: -27}
+        - {x: -5, y: -31}
+        - {x: 10, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: 17}
+        - {x: 12, y: 20}
+    - name: newSprite_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: -30}
+        - {x: -10, y: -31}
+        - {x: 12, y: -31}
+        - {x: 15, y: 6}
+        - {x: 15, y: 17}
+        - {x: 12, y: 20}
+    - name: newSprite_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: 5}
+        - {x: -12, y: -27}
+        - {x: -5, y: -31}
+        - {x: 10, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: 17}
+        - {x: 12, y: 20}
+    - name: newSprite_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -16, y: -22}
+        - {x: -15, y: -30}
+        - {x: -9, y: -31}
+        - {x: 12, y: -31}
+        - {x: 15, y: -19}
+        - {x: 15, y: 19}
+        - {x: 14, y: 21}
+    - name: newSprite_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 14}
+        - {x: 9, y: 21}
+    - name: newSprite_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 21}
+        - {x: -14, y: 21}
+        - {x: -15, y: 16}
+        - {x: -15, y: -25}
+        - {x: -13, y: -30}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: 3}
+    - name: newSprite_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -11, y: 21}
+        - {x: -16, y: 16}
+        - {x: -16, y: -17}
+        - {x: -14, y: -31}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: -1}
+        - {x: 13, y: 12}
+    - name: newSprite_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -12, y: 21}
+        - {x: -17, y: 16}
+        - {x: -17, y: -28}
+        - {x: -12, y: -32}
+        - {x: -1, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -29}
+        - {x: 12, y: 11}
+    - name: newSprite_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -13, y: 17}
+        - {x: -13, y: -32}
+        - {x: 6, y: -32}
+        - {x: 13, y: -30}
+        - {x: 19, y: -21}
+        - {x: 19, y: -2}
+        - {x: 12, y: 21}
+    - name: newSprite_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -13, y: 18}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 22, y: -20}
+        - {x: 22, y: 4}
+        - {x: 11, y: 21}
+    - name: newSprite_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -13, y: 17}
+        - {x: -13, y: -32}
+        - {x: 6, y: -32}
+        - {x: 13, y: -30}
+        - {x: 19, y: -21}
+        - {x: 19, y: -2}
+        - {x: 12, y: 21}
+    - name: newSprite_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -12, y: 21}
+        - {x: -17, y: 16}
+        - {x: -17, y: -28}
+        - {x: -12, y: -32}
+        - {x: -1, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -29}
+        - {x: 12, y: 11}
+    - name: newSprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 15}
+        - {x: 10, y: 20}
+    - name: newSprite_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -22}
+        - {x: -15, y: -30}
+        - {x: -13, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 18}
+        - {x: 13, y: 20}
+    - name: newSprite_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -22}
+        - {x: -15, y: -29}
+        - {x: -5, y: -32}
+        - {x: 9, y: -32}
+        - {x: 15, y: -30}
+        - {x: 17, y: -23}
+        - {x: 17, y: 14}
+        - {x: 10, y: 20}
+    - name: newSprite_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -23}
+        - {x: -13, y: -27}
+        - {x: -7, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 13, y: 19}
+    - name: newSprite_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -17, y: 17}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 20}
+    - name: newSprite_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -9, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -28}
+        - {x: -14, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 16}
+    - name: newSprite_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -31}
+        - {x: -15, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 13, y: 20}
+    - name: newSprite_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -29}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+        - {x: 14, y: 19}
+    - name: newSprite_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -17, y: 20}
+        - {x: -17, y: -27}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 2}
+        - {x: 16, y: 13}
+    - name: newSprite_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -6, y: 21}
+        - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -28}
+        - {x: 15, y: -17}
+        - {x: 15, y: 15}
+    - name: newSprite_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -15, y: 16}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 18}
+        - {x: 9, y: 20}
+    - name: newSprite_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 18}
+        - {x: 5, y: 21}
+        - {x: -13, y: 21}
+        - {x: -13, y: -31}
+        - {x: 7, y: -31}
+        - {x: 11, y: -28}
+        - {x: 14, y: -12}
+        - {x: 15, y: -1}
+    - name: newSprite_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -12, y: 19}
+        - {x: -12, y: -19}
+        - {x: -6, y: -31}
+        - {x: 12, y: -31}
+        - {x: 15, y: -19}
+        - {x: 15, y: 18}
+        - {x: 11, y: 21}
+    - name: newSprite_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -7, y: 21}
+        - {x: -12, y: 16}
+        - {x: -12, y: -29}
+        - {x: -8, y: -32}
+        - {x: 3, y: -32}
+        - {x: 12, y: -30}
+        - {x: 16, y: -23}
+        - {x: 16, y: 18}
+    - name: newSprite_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -14, y: 18}
+        - {x: -14, y: -32}
+        - {x: 1, y: -32}
+        - {x: 14, y: -30}
+        - {x: 18, y: -20}
+        - {x: 18, y: 19}
+        - {x: 9, y: 20}
+    - name: newSprite_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -12, y: 15}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 18}
+        - {x: 9, y: 21}
+    - name: newSprite_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -12, y: -28}
+        - {x: -5, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 21}
+    - name: newSprite_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -12, y: 17}
+        - {x: -12, y: -15}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -27}
+        - {x: 15, y: 21}
+    - name: newSprite_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 16, y: 21}
+        - {x: -14, y: 21}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: 0, y: -29}
+        - {x: 5, y: -32}
+    - name: newSprite_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -17, y: 16}
+        - {x: -17, y: -25}
+        - {x: -12, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 15}
+        - {x: 13, y: 21}
+    - name: newSprite_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 14, y: 21}
+    - name: newSprite_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20}
+        - {x: -13, y: 20}
+        - {x: -16, y: 19}
+        - {x: -16, y: -25}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -31}
+        - {x: 17, y: -23}
+        - {x: 17, y: 12}
+    - name: newSprite_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 21}
+    - name: newSprite_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -3, y: 21}
+        - {x: -11, y: 20}
+        - {x: -15, y: 18}
+        - {x: -17, y: 12}
+        - {x: -17, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -29}
+        - {x: 17, y: 16}
+        - {x: 16, y: 18}
+    - name: newSprite_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -17, y: 12}
+        - {x: -17, y: -22}
+        - {x: -15, y: -31}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -29}
+        - {x: 17, y: 20}
+        - {x: 14, y: 21}
+    - name: newSprite_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 20}
+    - name: newSprite_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -3, y: 21}
+        - {x: -11, y: 20}
+        - {x: -17, y: 19}
+        - {x: -17, y: -25}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 11}
+        - {x: 16, y: 18}
+    - name: newSprite_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 14}
+        - {x: 9, y: 21}
+    - name: newSprite_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -15, y: 17}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 1}
+        - {x: 12, y: 20}
+    - name: newSprite_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -16}
+        - {x: -11, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 18}
+        - {x: 11, y: 21}
+    - name: newSprite_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -22}
+        - {x: -13, y: -31}
+        - {x: 10, y: -31}
+        - {x: 12, y: -9}
+        - {x: 12, y: 16}
+        - {x: 10, y: 21}
+    - name: newSprite_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -16, y: 15}
+        - {x: -16, y: -22}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 16}
+        - {x: 7, y: 21}
+    - name: newSprite_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -18, y: 5}
+        - {x: -18, y: -21}
+        - {x: -16, y: -24}
+        - {x: -6, y: -31}
+        - {x: 2, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 20}
+    - name: newSprite_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -10, y: 21}
+        - {x: -16, y: 12}
+        - {x: -16, y: -21}
+        - {x: -8, y: -30}
+        - {x: -5, y: -31}
+        - {x: 0, y: -32}
+        - {x: 7, y: -32}
+        - {x: 11, y: -30}
+        - {x: 12, y: -24}
+        - {x: 12, y: 17}
+    - name: newSprite_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -12, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -22}
+        - {x: -12, y: -32}
+        - {x: 5, y: -32}
+        - {x: 11, y: -20}
+        - {x: 12, y: -10}
+        - {x: 12, y: 15}
+    - name: newSprite_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -15, y: 13}
+        - {x: -15, y: -15}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 21}
+    - name: newSprite_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 13}
+        - {x: 10, y: 19}
+        - {x: -11, y: 19}
+        - {x: -17, y: 16}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -30}
+    - name: newSprite_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -15, y: 16}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+        - {x: 12, y: 18}
+    - name: newSprite_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -16, y: 15}
+        - {x: -16, y: -30}
+        - {x: -10, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+        - {x: 10, y: 18}
+    - name: newSprite_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -15, y: 15}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 8, y: 19}
+    - name: newSprite_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -32}
+        - {x: 20, y: -32}
+        - {x: 24, y: -14}
+        - {x: 24, y: 9}
+        - {x: 18, y: 19}
+    - name: newSprite_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 19}
+        - {x: -3, y: 19}
+        - {x: -7, y: 18}
+        - {x: -14, y: 14}
+        - {x: -16, y: 6}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 27, y: -23}
+        - {x: 27, y: 11}
+        - {x: 24, y: 18}
+    - name: newSprite_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -6, y: 21}
+        - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -29}
+        - {x: -6, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -28}
+        - {x: 15, y: -17}
+        - {x: 15, y: 15}
+    - name: newSprite_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -17, y: 10}
+        - {x: -17, y: -26}
+        - {x: -15, y: -30}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 17}
+        - {x: 7, y: 19}
+    - name: newSprite_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -14, y: 15}
+        - {x: -14, y: -23}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 19}
+        - {x: 7, y: 21}
+    - name: newSprite_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -13, y: 21}
+        - {x: -23, y: 3}
+        - {x: -23, y: -27}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+        - {x: 13, y: 18}
+    - name: newSprite_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -26, y: 10}
+        - {x: -26, y: -15}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 21}
+    - name: newSprite_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 21}
+        - {x: -9, y: 21}
+        - {x: -16, y: 19}
+        - {x: -23, y: 10}
+        - {x: -23, y: -12}
+        - {x: -15, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 2}
+        - {x: 10, y: 16}
+    - name: newSprite_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 16, y: 21}
+        - {x: -14, y: 21}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: 0, y: -29}
+        - {x: 5, y: -32}
+    - name: newSprite_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+        - {x: 12, y: 21}
+        - {x: -7, y: 21}
+        - {x: -16, y: 19}
+    - name: newSprite_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -17, y: 16}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 18}
+        - {x: 11, y: 19}
+    - name: newSprite_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -11, y: 20}
+        - {x: -14, y: 16}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -7}
+        - {x: 17, y: 16}
+    - name: newSprite_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 19}
+        - {x: 15, y: 21}
+        - {x: 0, y: 21}
+        - {x: -8, y: 20}
+        - {x: -12, y: 18}
+        - {x: -14, y: 12}
+        - {x: -14, y: -30}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 18, y: -30}
+        - {x: 25, y: -20}
+        - {x: 25, y: 2}
+    - name: newSprite_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -15, y: 20}
+        - {x: -15, y: -32}
+        - {x: 10, y: -32}
+        - {x: 19, y: -30}
+        - {x: 28, y: -22}
+        - {x: 28, y: 8}
+        - {x: 24, y: 21}
+    - name: newSprite_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 14}
+        - {x: 9, y: 21}
+    - name: newSprite_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -13, y: 11}
+        - {x: -13, y: -31}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 11}
+        - {x: 9, y: 19}
+    - name: newSprite_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -14, y: 14}
+        - {x: -14, y: -29}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 16}
+        - {x: 11, y: 21}
+    - name: newSprite_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -15, y: 8}
+        - {x: -15, y: -28}
+        - {x: -11, y: -32}
+        - {x: 23, y: -32}
+        - {x: 23, y: -1}
+        - {x: 14, y: 21}
+    - name: newSprite_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -14, y: 16}
+        - {x: -14, y: -31}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 26, y: -13}
+        - {x: 26, y: 2}
+        - {x: 14, y: 21}
+    - name: newSprite_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 21}
+        - {x: -11, y: 21}
+        - {x: -14, y: 12}
+        - {x: -14, y: -31}
+        - {x: -12, y: -32}
+        - {x: 5, y: -32}
+        - {x: 16, y: -30}
+        - {x: 23, y: -10}
+        - {x: 23, y: 1}
+        - {x: 21, y: 8}
+    - name: newSprite_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -18, y: 15}
+        - {x: -18, y: -23}
+        - {x: -16, y: -31}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+        - {x: 12, y: 19}
+    - name: newSprite_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -16, y: 14}
+        - {x: -16, y: -20}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 12}
+        - {x: 6, y: 18}
+    - name: newSprite_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -9, y: 18}
+        - {x: -15, y: 15}
+        - {x: -15, y: -7}
+        - {x: -13, y: -27}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -27}
+        - {x: 15, y: 15}
+        - {x: 7, y: 19}
+    - name: newSprite_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -20}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -16}
+        - {x: 14, y: 16}
+        - {x: 7, y: 19}
+    - name: newSprite_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 15}
+        - {x: -16, y: -3}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 9}
+        - {x: 16, y: 12}
+    - name: newSprite_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -16, y: 17}
+        - {x: -16, y: -19}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 19}
+    - name: newSprite_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -6, y: 19}
+        - {x: -10, y: 18}
+        - {x: -16, y: 15}
+        - {x: -16, y: -19}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 11}
+        - {x: 15, y: 12}
+    - name: newSprite_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 18}
+        - {x: -16, y: -6}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 11}
+        - {x: 8, y: 19}
+    - name: newSprite_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -12, y: 19}
+        - {x: -16, y: 15}
+        - {x: -16, y: -19}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -31}
+        - {x: 18, y: -14}
+        - {x: 18, y: 0}
+        - {x: 14, y: 12}
+    - name: newSprite_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -16, y: 17}
+        - {x: -16, y: -19}
+        - {x: -8, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -31}
+        - {x: 17, y: -22}
+        - {x: 17, y: 18}
+        - {x: 13, y: 19}
+    - name: newSprite_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -20}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -16}
+        - {x: 14, y: 16}
+        - {x: 7, y: 19}
+    - name: newSprite_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -10, y: 18}
+        - {x: -16, y: 15}
+        - {x: -16, y: -19}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -31}
+        - {x: 14, y: -9}
+        - {x: 14, y: 14}
+        - {x: 5, y: 19}
+    - name: newSprite_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -20}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -16}
+        - {x: 14, y: 16}
+        - {x: 7, y: 19}
+    - name: newSprite_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -5, y: 21}
+        - {x: -7, y: 20}
+        - {x: -11, y: 14}
+        - {x: -11, y: -29}
+        - {x: -5, y: -32}
+        - {x: 7, y: -32}
+        - {x: 11, y: -28}
+        - {x: 16, y: -17}
+        - {x: 16, y: 15}
+    - name: newSprite_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -14, y: 15}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 19}
+        - {x: 11, y: 21}
+    - name: newSprite_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -6, y: 21}
+        - {x: -14, y: 12}
+        - {x: -19, y: -11}
+        - {x: -19, y: -14}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -18}
+        - {x: 17, y: 18}
+    - name: newSprite_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -21, y: 8}
+        - {x: -21, y: -24}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 18, y: -16}
+        - {x: 18, y: 14}
+        - {x: 11, y: 21}
+    - name: newSprite_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -7, y: 20}
+        - {x: -12, y: 12}
+        - {x: -11, y: 6}
+        - {x: -17, y: 2}
+        - {x: -21, y: -2}
+        - {x: -21, y: -23}
+        - {x: -9, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 15}
+        - {x: 14, y: 21}
+    - name: newSprite_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -6, y: 21}
+        - {x: -22, y: 9}
+        - {x: -22, y: -14}
+        - {x: -14, y: -30}
+        - {x: -7, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -21}
+        - {x: 16, y: 16}
+        - {x: 13, y: 20}
+    - name: newSprite_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -22, y: 13}
+        - {x: -22, y: -20}
+        - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -27}
+        - {x: 16, y: 20}
+        - {x: 15, y: 21}
+    - name: newSprite_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -21, y: 8}
+        - {x: -21, y: -16}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 19, y: -22}
+        - {x: 19, y: 13}
+        - {x: 10, y: 21}
+    - name: newSprite_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 21}
+        - {x: -12, y: 21}
+        - {x: -21, y: -1}
+        - {x: -21, y: -11}
+        - {x: -11, y: -29}
+        - {x: -9, y: -31}
+        - {x: -6, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 15}
+        - {x: 19, y: 20}
+    - name: newSprite_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -7, y: 20}
+        - {x: -12, y: 12}
+        - {x: -11, y: 6}
+        - {x: -17, y: 2}
+        - {x: -21, y: -2}
+        - {x: -21, y: -23}
+        - {x: -9, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 15}
+        - {x: 14, y: 21}
+    - name: newSprite_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -21, y: 0}
+        - {x: -21, y: -13}
+        - {x: -9, y: -31}
+        - {x: 2, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 16}
+        - {x: 14, y: 21}
+    - name: newSprite_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -21, y: -1}
+        - {x: -21, y: -14}
+        - {x: -16, y: -27}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 19}
+        - {x: 8, y: 21}
+    - name: newSprite_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -21, y: 0}
+        - {x: -21, y: -13}
+        - {x: -9, y: -31}
+        - {x: 2, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 16}
+        - {x: 14, y: 21}
+    - name: newSprite_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -31}
+        - {x: 16, y: -22}
+        - {x: 16, y: 20}
+        - {x: 13, y: 21}
+        - {x: -18, y: 21}
+        - {x: -18, y: -31}
+        - {x: -15, y: -32}
+        - {x: -4, y: -32}
+        - {x: -2, y: -28}
+        - {x: -2, y: -24}
+        - {x: 0, y: -28}
+    - name: newSprite_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -17, y: 17}
+        - {x: -17, y: -16}
+        - {x: -13, y: -27}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -20}
+        - {x: 14, y: 20}
+        - {x: 12, y: 21}
+    - name: newSprite_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 21}
+        - {x: -13, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: -16}
+        - {x: -15, y: -29}
+        - {x: -5, y: -31}
+        - {x: 8, y: -31}
+        - {x: 10, y: -28}
+        - {x: 14, y: -6}
+        - {x: 14, y: 20}
+    - name: newSprite_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: -19}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 14, y: 4}
+        - {x: 14, y: 18}
+        - {x: 9, y: 21}
+    - name: newSprite_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: -15}
+        - {x: -15, y: -29}
+        - {x: -7, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 14, y: -14}
+        - {x: 14, y: 21}
+    - name: newSprite_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: 12, y: 21}
+        - {x: -13, y: 21}
+        - {x: -17, y: 20}
+        - {x: -17, y: -8}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 1}
+        - {x: 14, y: 9}
+    - name: newSprite_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -16, y: 21}
+        - {x: -17, y: 18}
+        - {x: -17, y: -23}
+        - {x: -11, y: -32}
+        - {x: 6, y: -32}
+        - {x: 9, y: -30}
+        - {x: 13, y: 1}
+        - {x: 14, y: 9}
+        - {x: 14, y: 18}
+    - name: newSprite_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -12, y: 20}
+        - {x: -17, y: 17}
+        - {x: -17, y: -2}
+        - {x: -12, y: -27}
+        - {x: -7, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 14, y: -8}
+        - {x: 14, y: 20}
+        - {x: 11, y: 21}
+    - name: newSprite_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 21}
+        - {x: -15, y: 21}
+        - {x: -17, y: 20}
+        - {x: -17, y: -31}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -31}
+        - {x: 14, y: -14}
+        - {x: 14, y: 20}
+    - name: newSprite_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -17, y: 19}
+        - {x: -17, y: -15}
+        - {x: -15, y: -29}
+        - {x: -7, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 14, y: -14}
+        - {x: 14, y: 21}
+    - name: newSprite_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -17, y: 20}
+        - {x: -17, y: -20}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -20}
+        - {x: 14, y: 21}
+    - name: newSprite_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -17, y: 18}
+        - {x: -17, y: 2}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 6, y: -32}
+        - {x: 11, y: -31}
+        - {x: 14, y: -14}
+        - {x: 14, y: 21}
+    - name: newSprite_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -17, y: 20}
+        - {x: -17, y: -20}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -20}
+        - {x: 14, y: 21}
+    - name: newSprite_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -16, y: 18}
+        - {x: -16, y: -26}
+        - {x: -11, y: -32}
+        - {x: 4, y: -32}
+        - {x: 11, y: -30}
+        - {x: 11, y: 14}
+        - {x: 8, y: 21}
+    - name: newSprite_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -16, y: 18}
+        - {x: -16, y: -26}
+        - {x: -14, y: -30}
+        - {x: -7, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 17}
+        - {x: 9, y: 21}
+    - name: newSprite_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -12, y: 21}
+        - {x: -17, y: 12}
+        - {x: -17, y: -15}
+        - {x: -11, y: -28}
+        - {x: -7, y: -32}
+        - {x: 0, y: -32}
+        - {x: 9, y: -31}
+        - {x: 19, y: -15}
+        - {x: 19, y: -3}
+    - name: newSprite_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -18, y: 17}
+        - {x: -18, y: -23}
+        - {x: -17, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 4}
+        - {x: 14, y: 21}
+    - name: newSprite_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -10, y: 21}
+        - {x: -17, y: 18}
+        - {x: -18, y: 14}
+        - {x: -18, y: -20}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -24}
+        - {x: 21, y: -10}
+        - {x: 21, y: 5}
+    - name: newSprite_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 3}
+        - {x: 19, y: 5}
+        - {x: 11, y: 18}
+        - {x: 5, y: 21}
+        - {x: -11, y: 21}
+        - {x: -16, y: 14}
+        - {x: -16, y: -18}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -24}
+        - {x: 21, y: -9}
+        - {x: 22, y: -5}
+    - name: newSprite_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -16, y: 21}
+        - {x: -16, y: -28}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 22, y: -12}
+        - {x: 22, y: 11}
+        - {x: 21, y: 15}
+    - name: newSprite_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -19, y: 20}
+        - {x: -19, y: -30}
+        - {x: -15, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: 21}
+    - name: newSprite_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -25}
+        - {x: -19, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -26}
+        - {x: 21, y: 13}
+        - {x: 13, y: 20}
+        - {x: 10, y: 21}
+        - {x: -14, y: 21}
+        - {x: -21, y: 11}
+    - name: newSprite_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -10, y: 21}
+        - {x: -17, y: 18}
+        - {x: -18, y: 14}
+        - {x: -18, y: -20}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -24}
+        - {x: 21, y: -10}
+        - {x: 21, y: 5}
+    - name: newSprite_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -16, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -19}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -28}
+        - {x: 21, y: 5}
+        - {x: 8, y: 21}
+    - name: newSprite_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -11, y: 21}
+        - {x: -16, y: 12}
+        - {x: -16, y: -6}
+        - {x: -13, y: -30}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -24}
+        - {x: 21, y: -6}
+        - {x: 21, y: 3}
+    - name: newSprite_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -16, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -19}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -28}
+        - {x: 21, y: 5}
+        - {x: 8, y: 21}
+    - name: newSprite_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 16, y: 21}
+        - {x: -14, y: 21}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: 0, y: -29}
+        - {x: 5, y: -32}
+    - name: newSprite_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20}
+        - {x: -6, y: 20}
+        - {x: -15, y: 18}
+        - {x: -15, y: 11}
+        - {x: -16, y: -7}
+        - {x: -16, y: -23}
+        - {x: -9, y: -31}
+        - {x: -2, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -24}
+        - {x: 19, y: 8}
+        - {x: 18, y: 16}
+    - name: newSprite_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -26}
+        - {x: 19, y: 13}
+        - {x: 16, y: 14}
+    - name: newSprite_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 10}
+        - {x: -6, y: 10}
+        - {x: -15, y: 8}
+        - {x: -15, y: -28}
+        - {x: -13, y: -31}
+        - {x: 18, y: -31}
+        - {x: 19, y: -28}
+        - {x: 19, y: 0}
+        - {x: 18, y: 6}
+    - name: newSprite_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 4}
+        - {x: -15, y: 0}
+        - {x: -15, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: 3}
+        - {x: 14, y: 4}
+    - name: newSprite_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 6}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: -4}
+        - {x: 19, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
